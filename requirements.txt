@@ -1,0 +1,5 @@
+pydantic==2.0.2
+django
+djangorestframework
+psycopg2
+requests
