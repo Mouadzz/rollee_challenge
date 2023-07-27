@@ -11,7 +11,7 @@ This project is a Python program that performs the login on the Rollee dashboard
 To get started with the project, follow these steps:
 
 ```bash
-git clone 'gitlab repo'
+git clone https://github.com/Mouadzz/rollee_challenge.git
 
 cd rollee_challenge
 
